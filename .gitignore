@@ -9,3 +9,6 @@ npm-debug.log
 .coveralls.yml
 .nyc_output
 .nyc_output/*
+
+package-lock.json
+yarn.lock
